@@ -1,0 +1,20 @@
+html{
+    scroll-behavior: smooth;
+}
+
+#carouselExampleIndicators {
+    margin-top: 20px;
+}
+.carousel slide {
+height: 40rem;
+}
+.carouselcls {
+    
+    background-color: rgb(47, 53, 53);
+    
+}
+#home{
+    margin-top: 10vh;
+    background-color: rgba(139, 186, 224, 0.61);
+    height: 671px;
+}
